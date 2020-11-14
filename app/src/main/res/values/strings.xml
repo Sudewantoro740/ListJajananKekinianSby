@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListJajananKekinianSby</string>
+    <string name="jajanan_kekinian_surabaya">Jajanan Kekinian Surabaya</string>
+    <string name="nama_jajanan">Nama Jajanan</string>
+    <string name="GambarJajan">TODO</string>
+    <string name="deskripsi_jajan">Deskripsi Jajan</string>
+    <string name="todo">TODO</string>
+    <string name="detailgambar">detailgambar</string>
+</resources>
